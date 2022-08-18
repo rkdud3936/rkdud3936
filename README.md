@@ -1,10 +1,9 @@
-<h1 align="center"><img  src="http://www.fashionbiz.co.kr/images/TN/AR/6-%ED%8A%B8%EC%9C%84%ED%8B%B03.JPG" alt="img" style="height: 80px; width: 60px;"/> Hi, I'm gayeong. Welcome to my GitHub.</h1>
+<h1 align="center"><img src="http://www.fashionbiz.co.kr/images/TN/AR/6-%ED%8A%B8%EC%9C%84%ED%8B%B03.JPG" alt="img" style="height: 80px; width: 60px;"/> Hi, I'm gayeong. Welcome to my GitHub.</h1>
+<br/>
 
-
-
-<h2 align="center">My steck</h2>
+<h3 align="center">📚 My steck 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>&nbsp 
+  
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <br>
