@@ -20,3 +20,5 @@
 <img alt="VSCode" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&flat-square&logo=Visual Studio Code&logoColor=black"/>
 <img alt="GoogleColab" src ="https://img.shields.io/badge/GoogleColab-F9AB00.svg?&flat-square&logo=GoogleColab&logoColor=white"/>
 </p>
+
+<hr>
